@@ -27,7 +27,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "OceanPlugin/Private/OceanManager.h"
+#include "OceanPlugin/Public/OceanManager.h"
 #include "AdvancedBuoyancyComponent.generated.h"
 
 USTRUCT(BlueprintType)

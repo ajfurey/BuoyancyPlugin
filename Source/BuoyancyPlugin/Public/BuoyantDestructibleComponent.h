@@ -21,7 +21,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "OceanPlugin/Private/OceanManager.h"
+#include "OceanPlugin/Public/OceanManager.h"
 #include "DestructibleComponent.h"
 #include "BuoyantDestructibleComponent.generated.h"
 

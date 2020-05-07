@@ -19,7 +19,7 @@
 * =================================================*/
 
 #include "BuoyantMesh/WaterHeightmapComponent.h"
-#include "OceanPlugin/Private/OceanManager.h"
+#include "OceanPlugin/Public/OceanManager.h"
 #include "DrawDebugHelpers.h"
 #include "EngineUtils.h"
 

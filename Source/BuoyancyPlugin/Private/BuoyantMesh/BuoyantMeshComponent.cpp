@@ -19,7 +19,7 @@
 * =================================================*/
 
 #include "BuoyantMesh/BuoyantMeshComponent.h"
-#include "OceanPlugin/Private/OceanManager.h"
+#include "OceanPlugin/Public/OceanManager.h"
 #include "PhysicsEngine/BodySetup.h"
 #include "BuoyantMesh/BuoyantMeshTriangle.h"
 #include "BuoyantMesh/BuoyantMeshSubtriangle.h"

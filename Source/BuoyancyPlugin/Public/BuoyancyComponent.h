@@ -23,7 +23,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/MovementComponent.h"
 #include "PhysicsEngine/PhysicsConstraintComponent.h"
-#include "OceanPlugin/Private/OceanManager.h"
+#include "OceanPlugin/Public/OceanManager.h"
 #include "BuoyancyComponent.generated.h"
 
 
